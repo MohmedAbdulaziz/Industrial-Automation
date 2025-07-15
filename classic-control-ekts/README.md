@@ -14,7 +14,7 @@ Each project includes:
 
 | # | Task Name | Description |
 |--:|-----------|-------------|
-| 1 | Basic OR Start Motor Control | Motor runs by pressing either Start 1 or Start 2; stops by Stop button |
+| 1 | Start motor using 2 different push button | Motor runs by pressing either Start 1 or Start 2; stops by Stop button |
 | 2 | AND Start / OR Stop Motor Control | Requires both Start buttons to run; either Stop button halts the motor |
 | 3 | Sequential Start of Three Motors with Single Stop | Motors start one after another via 3 buttons; all stop together |
 | 4 | Independent Start/Stop Control for Three Motors | Each motor has its own start/stop logic |
